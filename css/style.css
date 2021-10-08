@@ -1,0 +1,26 @@
+body {
+	font-family: sans-serif;
+	color: #fff;
+	font-size: 14px;
+}
+
+h1,h2{
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+}
+
+.box {
+	background-color: rgb(0, 76, 255);
+	text-align: center;
+	padding: 10px 10px;
+	border: 1px solid rgb(21, 1, 150);
+}
+.box-nest {
+	background-color: rgb(41, 202, 79);
+	text-align: center;
+	padding: 10px 0px;
+}
+.box-midle {
+	background-color: rgb(0, 76, 255);
+	padding: 20px 20px;
+	border: 1px solid rgb(21, 1, 150);}
