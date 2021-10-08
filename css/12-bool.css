@@ -24,10 +24,21 @@
 }
 [class*="col-"].padding-0{
 	padding: 0px;
+
 }
 /* row > div {
 	padding: 1px;
 } */
+.justify-center {
+	justify-content: center;
+}
+.justify-center {
+	justify-content: flex-end;
+}
+.justify-center {
+	justify-content: flex-start;
+}
+
 
 .col-12 {
 	width: 100%;
